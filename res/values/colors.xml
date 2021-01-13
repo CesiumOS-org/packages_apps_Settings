@@ -170,6 +170,6 @@
     <color name="palette_list_dark_mode_color_purple">#c58af9</color> <!-- Material Purple 300 -->
 
     <!-- Config Center -->
-    <color name="homepage_config_center_background">#1F2F80EC</color>
+    <color name="homepage_config_center_background">#332F80EC</color>
 
 </resources>
